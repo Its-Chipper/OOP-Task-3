@@ -1,0 +1,11 @@
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\bin\Debug\netcoreapp3.1\OOP Task 3.exe
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\bin\Debug\netcoreapp3.1\OOP Task 3.deps.json
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\bin\Debug\netcoreapp3.1\OOP Task 3.runtimeconfig.json
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\bin\Debug\netcoreapp3.1\OOP Task 3.runtimeconfig.dev.json
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\bin\Debug\netcoreapp3.1\OOP Task 3.dll
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\bin\Debug\netcoreapp3.1\OOP Task 3.pdb
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\obj\Debug\netcoreapp3.1\OOP Task 3.csprojAssemblyReference.cache
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\obj\Debug\netcoreapp3.1\OOP Task 3.AssemblyInfoInputs.cache
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\obj\Debug\netcoreapp3.1\OOP Task 3.AssemblyInfo.cs
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\obj\Debug\netcoreapp3.1\OOP Task 3.dll
+C:\Users\Harry\source\repos\OOP Task 3\OOP Task 3\obj\Debug\netcoreapp3.1\OOP Task 3.pdb
